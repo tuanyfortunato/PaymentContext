@@ -1,2 +1,2 @@
 # PaymentContext
-Exercício realizado em C# na Aula de DDD 
+Projeto de estudos de DDD (Domain-Driven Design), SOLID e Clean Code
