@@ -134,3 +134,9 @@ PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.csproj.FileLis
 PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.csprojAssemblyReference.cache
 PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.dll
 PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.pdb
+.vs/PaymentContext/DesignTimeBuild/.dtbcache
+.vs/PaymentContext/v16/.suo
+.vs/PaymentContext/v16/Server/sqlite3/db.lock
+.vs/PaymentContext/v16/Server/sqlite3/storage.ide
+.vscode/launch.json
+.vscode/tasks.json
