@@ -140,3 +140,13 @@ PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.pdb
 .vs/PaymentContext/v16/Server/sqlite3/storage.ide
 .vscode/launch.json
 .vscode/tasks.json
+PaymentContext.Domain/obj/project.nuget.cache
+PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.genruntimeconfig.cache
+PaymentContext.Tests/obj/Debug/netcoreapp3.1/PaymentContext.Tests.csproj.CoreCompileInputs.cache
+PaymentContext.Tests/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+PaymentContext.Domain/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
+PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+PaymentContext.Shared/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
+PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+PaymentContext.Tests/obj/project.nuget.cache
+PaymentContext.Shared/obj/project.nuget.cache
