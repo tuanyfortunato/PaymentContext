@@ -150,3 +150,4 @@ PaymentContext.Shared/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.Assembl
 PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
 PaymentContext.Tests/obj/project.nuget.cache
 PaymentContext.Shared/obj/project.nuget.cache
+PaymentContext.Tests/bin/Debug/netcoreapp3.1/Flunt.dll
