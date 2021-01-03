@@ -13,6 +13,7 @@ namespace PaymentContext.Domain.ValueObjects
 
             AddNotifications(new Contract()
                 .Requires()
+                .IsNotNullOrEmpty(Number, "Document.Number", "Documento nulo")
                 .IsTrue(Validate(), "Document.Number", "Documento inválido")
             );
         }
@@ -22,10 +23,10 @@ namespace PaymentContext.Domain.ValueObjects
         public EDocumentType Type { get; private set; }
 
         public bool Validate(){
-            if(Type == EDocumentType.CNPJ && Number.Length == 14)
+            if(Type == EDocumentType.CNPJ && !string.IsNullOrEmpty(Number) && Number.Length == 14)
                 return true;
 
-            if(Type == EDocumentType.CPF && Number.Length == 11)
+            if(Type == EDocumentType.CPF && !string.IsNullOrEmpty(Number) && Number.Length == 11)
                 return true;
 
             return false;
